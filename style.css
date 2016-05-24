@@ -1,0 +1,32 @@
+.header{
+	position: relative;
+	height: 96px;
+	width: 1336px;
+	background-color: #3f4142;
+}
+
+.logo{
+	position: absolute;
+	left: -30px;
+}
+
+.button{
+	position: absolute;
+	background: url(img/yellbutt.png) repeat;
+	color: white;
+	height: 37px;
+	width: 250px;
+}
+
+.phone{
+	position: absolute;
+}
+
+a{
+	font-size: 14px;
+}
+
+p{
+	font-size: 18px;
+	color: #f3af00;
+}
